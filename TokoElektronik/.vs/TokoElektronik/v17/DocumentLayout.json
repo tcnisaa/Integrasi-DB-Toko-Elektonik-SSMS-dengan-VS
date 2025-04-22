@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\TokoElektronik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0794EA6-3704-4970-8A7C-431675331A37}|TokoElektronik.csproj|c:\\users\\user\\source\\repos\\tokoelektronik\\listitems.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A0794EA6-3704-4970-8A7C-431675331A37}|TokoElektronik.csproj|solutionrelative:listitems.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0794EA6-3704-4970-8A7C-431675331A37}|TokoElektronik.csproj|c:\\users\\user\\source\\repos\\tokoelektronik\\listitems.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0794EA6-3704-4970-8A7C-431675331A37}|TokoElektronik.csproj|solutionrelative:listitems.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0794EA6-3704-4970-8A7C-431675331A37}|TokoElektronik.csproj|c:\\users\\user\\source\\repos\\tokoelektronik\\listitems.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0794EA6-3704-4970-8A7C-431675331A37}|TokoElektronik.csproj|solutionrelative:listitems.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListItems.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TokoElektronik\\ListItems.aspx.cs",
+              "RelativeDocumentMoniker": "ListItems.aspx.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TokoElektronik\\ListItems.aspx.cs",
+              "RelativeToolTip": "ListItems.aspx.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAqwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:06:45.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListItems.aspx",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TokoElektronik\\ListItems.aspx",
+              "RelativeDocumentMoniker": "ListItems.aspx",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TokoElektronik\\ListItems.aspx",
+              "RelativeToolTip": "ListItems.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-17T12:04:03.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListItems.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TokoElektronik\\ListItems.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ListItems.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TokoElektronik\\ListItems.aspx.designer.cs",
+              "RelativeToolTip": "ListItems.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:07:04.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
